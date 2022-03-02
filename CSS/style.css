@@ -1,0 +1,148 @@
+body {
+	margin: 0;
+	text-align: center;
+}
+h1 {
+	font-family: 'Lora', serif;
+	width: 120%;
+}
+.first-p {
+	width: 170%;
+}
+.contain {
+	font-family: 'Merriweather', serif;
+}
+h3 {
+	padding-top: 20px;
+	font-family: 'Montserrat', sans-serif;
+	color: #66BFBF;
+}
+hr {
+	border-style: none;
+    border-top: dotted;
+    border-width: 8px;
+    border-color: #EAF6F6;
+    width: 2%;
+}
+/*
+hr:hover {
+	background: #eb112e;
+	text-decoration: none;
+}
+*/
+.top-container {
+	text-align: left;
+	width: 25%;
+	font-size: 2rem;
+	margin-left: 100px;
+	padding-top: 100px;
+	margin-bottom: -20%;
+}
+.btn {
+  background: #eb112e;
+  background-image: -webkit-linear-gradient(top, #eb112e, #c70a40);
+  background-image: -moz-linear-gradient(top, #eb112e, #c70a40);
+  background-image: -ms-linear-gradient(top, #eb112e, #c70a40);
+  background-image: -o-linear-gradient(top, #eb112e, #c70a40);
+  background-image: linear-gradient(to bottom, #eb112e, #c70a40);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  border: solid red 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #cf0f65;
+  background-image: -webkit-linear-gradient(top, #cf0f65, #e60cd7);
+  background-image: -moz-linear-gradient(top, #cf0f65, #e60cd7);
+  background-image: -ms-linear-gradient(top, #cf0f65, #e60cd7);
+  background-image: -o-linear-gradient(top, #cf0f65, #e60cd7);
+  background-image: linear-gradient(to bottom, #cf0f65, #e60cd7);
+  text-decoration: none;
+}
+.nn {
+  width: 70%;
+  position: relative;
+  left: 65rem;
+  top: -460px;
+}
+.middel-container {
+	padding-top: 50px;
+	background-color: #FFBED8;
+	padding-bottom: 10px;
+}
+.first-pic {
+	width: 10%;
+	position: relative;
+	margin-right: 100px;
+
+}
+.second-pic {
+	width: 10%;
+	position: relative;
+	margin-right: 100px;
+}
+.third-pic {
+	width: 10%;
+	position: relative;
+	margin-right: 100px;
+	
+}
+.four-pic {
+	width: 10%;
+	position: relative;
+	margin-right: 100px;
+}
+.hamburger {
+	width: 23%;
+	float: left;
+	margin-right: 50px;
+
+
+}
+.pizza {
+	width: 20%;
+	float: right;
+	margin-left: 50px;
+	
+}
+.bottom-container1 {
+	padding-top: 20px;
+	width: 55%;
+	margin: auto;
+	text-align: left;
+	font-size: 1.3rem;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	margin-bottom: auto;
+}
+.bottom {
+		background-color: #66BFBF;
+    padding-top: 50px;
+    font-weight: normal;
+    font-size: 1.5rem;
+    margin: auto auto auto auto;
+}
+.eins {
+	position: relative;
+	margin-right: 20px;
+	text-decoration: none;
+}
+.zwei {
+	position: relative;
+	text-decoration: none;
+}
+.dwei {
+	position: relative;
+	margin-left: 20px;
+	text-decoration: none;
+}
+.end {
+	color: white;
+	margin-bottom: auto;
+}
